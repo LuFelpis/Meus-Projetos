@@ -1,3 +1,5 @@
+// CODIGO LIMPO E MUITO BEM ORGANIZADO, PARABENS
+
 #include <stdio.h>
 #include <string.h>
 #include <windows.h>                              
